@@ -1,0 +1,6 @@
+{
+  "name": "naril/pdfeditor",
+  "require": {
+    "setasign/fpdi-fpdf": "^2.3"
+  }
+}
